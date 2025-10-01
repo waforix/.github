@@ -1,4 +1,4 @@
-# Waforix
+# Waforix LLC
 
 **Waforix** is a collective of open-source projects focused on developer tooling, APIs, and creative systems.  
 We build reliable libraries, Discord integrations, web applications, and experiments in simulation and visualization.  
